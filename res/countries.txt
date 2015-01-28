@@ -1,0 +1,206 @@
+Abkhazia.png | Abkhazia | Asia & Hard
+Afghanistan.png | Afghanistan | Asia & UN & Medium
+Albania.png | Albania | Europe & UN & Medium
+Algeria.png | Algeria | Africa & UN & Medium
+Andorra.png | Andorra | Europe & UN & Medium
+Angola.png | Angola | Africa & UN & Medium
+Antigua_and_Barbuda.png | Antigua_and_Barbuda & Antigua | NorthAm & UN & Hard
+Argentina.png | Argentina | SouthAm & UN & Easy
+Armenia.png | Armenia | Asia & UN & Medium
+Australia.png | Australia | Oceania & UN & Easy
+Austria.png | Austria | Europe & UN & Easy
+Azerbaijan.png | Azerbaijan | Asia & UN & Medium
+Bahamas.png | Bahamas & The_Bahamas | NorthAm & UN & Hard
+Bahrain.png | Bahrain | Asia & UN & Hard
+Bangladesh.png | Bangladesh | Asia & UN & Medium
+Barbados.png | Barbados | NorthAm & UN & Hard
+Belarus.png | Belarus | Europe & UN & Easy
+Belgium.png | Belgium | Europe & UN & Easy
+Belize.png | Belize | NorthAm & UN & Medium
+Benin.png | Benin | Africa & UN & Hard
+Bhutan.png | Bhutan | Asia & UN & Hard
+Bolivia.png | Bolivia | SouthAm & UN & Medium
+Bosnia_and_Herzegovina.png | Bosnia_and_Herzegovina & Bosnia Herzegovina & Bosnia-Herzegovina | Europe & UN & Easy
+Botswana.png | Botswana | Africa & UN & Hard
+Brazil.png | Brazil | SouthAm & UN & Easy
+Brunei.png | Brunei & Brunei_Darassalam | Asia & UN & Hard
+Bulgaria.png | Bulgaria | Europe & UN & Easy
+Burkina_Faso.png | Burkina_Faso | Africa & UN & Hard
+Burundi.png | Burundi | Africa & UN & Hard
+Cambodia.png | Cambodia | Asia & UN & Medium
+Cameroon.png | Cameroon | Africa & UN & Hard
+Canada.png | Canada | NorthAm & UN & Easy
+Cape_Verde.png | Cape_Verde & Cabo Verde | Africa & UN & Hard
+Central_African_Republic.png | Central_African_Republic & CAR | Africa & UN & Hard
+Chad.png | Chad | Africa & UN & Hard
+Chile.png | Chile | SouthAm & UN & Easy
+China.png | China & People's_Republic_of_China | Asia & UN & Easy
+Colombia.png | Colombia | SouthAm & UN & Easy
+Comoros.png | Comoros | Africa & UN & Hard
+Cook_Islands.png | Cook_Islands | Oceania & Hard
+Costa_Rica.png | Costa_Rica | NorthAm & UN & Medium
+Croatia.png | Croatia | Europe & UN & Easy
+Cuba.png | Cuba | NorthAm & UN & Easy
+Cyprus.png | Cyprus | Europe & UN & Medium
+Czech_Republic.png | Czech_Republic | Europe & UN & Easy
+Democratic_Republic_of_the_Congo.png | Democratic_Republic_of_the_Congo & DRC | Africa & UN & Hard
+Denmark.png | Denmark | Europe & UN & Easy
+Djibouti.png | Djibouti | Africa & UN & Medium
+Dominica.png | Dominica | NorthAm & UN & Hard
+Dominican_Republic.png | Dominican_Republic | NorthAm & UN & Hard
+East_Timor.png | East_Timor & Timon-Leste & Timor Leste | Asia &  UN & Hard
+Ecuador.png | Ecuador | SouthAm & UN & Medium
+Egypt.png | Egypt | Africa & UN & Easy
+El_Salvador.png | El_Salvador | NorthAm & UN & Medium
+Equatorial_Guinea.png | Equatorial_Guinea | Africa & UN & Hard
+Eritrea.png | Eritrea | Africa & UN & Hard
+Estonia.png | Estonia | Europe & UN & Medium
+Ethiopia.png | Ethiopia | Africa & UN & Medium
+Federated_States_of_Micronesia.png | Federated_States_of_Micronesia & Micronesia | Oceania & UN & Hard
+Fiji.png | Fiji | Oceania & UN & Hard
+Finland.png | Finland | Europe & UN & Easy
+France.png | France | Europe & UN & Easy
+Gabon.png | Gabon | Africa & UN & Hard
+Gambia.png | Gambia | Africa & UN & Hard
+Georgia.png | Georgia | Asia & UN & Medium
+Germany.png | Germany | Europe & UN & Easy
+Ghana.png | Ghana | Africa & UN & Hard
+Greece.png | Greece | Europe & UN & Easy
+Grenada.png | Grenada | NorthAM & UN & Hard
+Guatemala.png | Guatemala | NorthAm & UN & Medium
+Guinea-Bissau.png | Guinea-Bissau | Africa & UN & Hard
+Guinea.png | Guinea | Africa & UN & Hard
+Guyana.png | Guyana | SouthAm & UN & Medium
+Haiti.png | Haiti | NorthAm & UN & Medium
+Honduras.png | Honduras | NorthAm & UN & Medium
+Hungary.png | Hungary | Europe & UN & Easy
+Iceland.png | Iceland | Europe & UN & Easy
+India.png | India | Asia & UN & Easy
+Indonesia.png | Indonesia | Asia & UN & Easy
+Iran.png | Iran | Asia & UN & Medium
+Iraq.png | Iraq | Asia & UN & Medium
+Ireland.png | Ireland | Europe & UN & Easy
+Israel.png | Israel | Asia & UN & Easy
+Italy.png | Italy | Europe & UN & Easy
+Ivory_Coast.png | Ivory_Coast & Cote_d'Ivoire | Africa & UN & Hard
+Jamaica.png | Jamaica | NorthAm & UN & Easy
+Japan.png | Japan | Asia & UN & Easy
+Jordan.png | Jordan | Asia & UN & Easy
+Kazakhstan.png | Kazakhstan | Asia & UN & Medium
+Kenya.png | Kenya | Africa & UN & Medium
+Kiribati.png | Kiribati | Oceania & UN & Hard
+Kosovo.png | Kosovo | Europe & Medium
+Kuwait.png | Kuwait | Asia & UN & Hard
+Kyrgyzstan.png | Kyrgyzstan | Asia & UN & Medium
+Laos.png | Laos & Lao_People's_Democratic_Republic | Asia & UN & Medium
+Latvia.png | Latvia | Europe & UN & Medium
+Lebanon.png | Lebanon | Asia & UN & Medium
+Lesotho.png | Lesotho | Africa & UN & Hard
+Liberia.png | Liberia | Africa & UN & Hard
+Libya.png | Libya | Africa & UN & Medium
+Liechtenstein.png | Liechtenstein | Europe & UN & Medium
+Lithuania.png | Lithuania | Europe & UN & Medium
+Luxembourg.png | Luxembourg | Europe & UN & Medium
+Macedonia.png | Macedonia & Macedonia_(FYROM) & FYROM | Europe & UN & Medium
+Madagascar.png | Madagascar | Africa & UN & Medium
+Malawi.png | Malawi | Africa & UN & Hard
+Malaysia.png | Malaysia | Asia & UN & Easy
+Maldives.png | Maldives | Africa & UN & Hard
+Mali.png | Mali | Africa & UN & Hard
+Malta.png | Malta | Europe & UN & Medium
+Marshall_Islands.png | Marshall_Islands | Oceania & UN & Hard
+Mauritania.png | Mauritania | Africa & UN & Hard
+Mauritius.png | Mauritius | Africa & UN & Hard
+Mexico.png | Mexico | NorthAm & UN & Easy
+Moldova.png | Moldova & Republic_of_Moldova | Europe & UN & Medium
+Monaco.png | Monaco | Europe & UN & Medium
+Mongolia.png | Mongolia | Asia & UN & Medium
+Montenegro.png | Montenegro | Europe & UN & Medium
+Morocco.png | Morocco | Africa & UN & Medium
+Mozambique.png | Mozambique | Africa & UN & Hard
+Myanmar.png | Myanmar & Burma | Asia & UN & Medium
+Nagorno-Karabakh.png | Nagorno-Karabakh & Nagorno_Karabakh | Asia & Hard
+Namibia.png | Namibia | Africa & UN & Hard
+Nauru.png | Nauru | Oceania & UN & Hard
+Nepal.png | Nepal | Asia & UN & Medium
+Netherlands.png | Netherlands | Europe & UN & Easy
+New_Zealand.png | New_Zealand | Oceania & UN & Easy
+Nicaragua.png | Nicaragua | NorthAm & UN & Medium 
+Niger.png | Niger | Africa & UN & Hard
+Nigeria.png | Nigeria | Africa & UN & Hard
+Niue.png | Niue | Oceania & Hard
+North_Korea.png | North_Korea | Asia & UN & Easy
+Norway.png | Norway | Europe & UN & Easy
+Oman.png | Oman | Asia & UN & Medium
+Pakistan.png | Pakistan | Asia & UN & Medium
+Palau.png | Palau | Oceania & UN & Hard
+Palestine.png | Palestine | Asia & Medium
+Panama.png | Panama | NorthAm & UN & Medium
+Papua_New_Guinea.png | Papua_New_Guinea | Oceania & UN & Medium
+Paraguay.png | Paraguay | SouthAm & UN & Medium
+Peru.png | Peru | SouthAm & UN & Easy
+Philippines.png | Philippines | Asia &  UN & Easy
+Poland.png | Poland | Europe & UN & Easy
+Portugal.png | Portugal | Europe & UN & Easy
+Qatar.png | Qatar | Asia & UN & Medium
+Republic_of_the_Congo.png | Republic_of_the_Congo | Africa & UN & Hard
+Romania.png | Romania | Europe & UN & Easy
+Russia.png | Russia & Russian_Federation | Europe & Asia & UN & Easy
+Rwanda.png | Rwanda | Africa & UN & Hard
+Sahrawi_Arab_Democratic_Republic.png | Sahrawi_Arab_Democratic_Republic & Western_Sahara | Africa & Hard
+Saint_Kitts_and_Nevis.png | Saint_Kitts_and_Nevis & St_Kitts_and_Nevis | NorthAm & UN & Hard
+Saint_Lucia.png | Saint_Lucia & St_Lucia | NorthAm & UN & Hard
+Saint_Vincent_and_the_Grenadines.png | Saint_Vincent_and_the_Grenadines & St_Vincent_and_the_Grenadines | NorthAm & UN & Hard
+Samoa.png | Samoa | Oceania & UN & Hard
+San_Marino.png | San_Marino | Europe & UN & Hard
+Sao_Tome_and_Principe.png | Sao_Tome_and_Principe | Africa & UN & Hard
+Saudi_Arabia.png | Saudi_Arabia | Asia & UN & Easy
+Senegal.png | Senegal | Africa & UN & Hard
+Serbia.png | Serbia | Europe & UN & Medium
+Seychelles.png | Seychelles | Africa & UN & Hard
+Sierra_Leone.png | Sierra_Leone | Africa & UN & Hard
+Singapore.png | Singapore | Asia & UN & Medium
+Slovakia.png | Slovakia | Europe & UN & Medium
+Slovenia.png | Slovenia | Europe & UN & Medium
+Solomon_Islands.png | Solomon_Islands | Oceania & UN & Hard
+Somalia.png | Somalia | Africa & UN & Medium
+Somaliland.png | Somaliland | Africa & Hard
+South_Africa.png | South_Africa | Africa & UN & Easy
+South_Korea.png | South_Korea & Republic_of_Korea | Asia & UN & Easy
+South_Ossetia.png | South_Ossetia | Asia & Hard
+South_Sudan.png | South_Sudan | Africa & UN & Hard
+Spain.png | Spain | Europe & UN & Easy
+Sri_Lanka.png | Sri_Lanka | Asia & UN & Medium
+Sudan.png | Sudan | Africa & UN & Hard
+Suriname.png | Suriname | SouthAm & UN & Medium
+Swaziland.png | Swaziland | Africa & UN & Hard
+Sweden.png | Sweden | Europe & UN & Easy
+Switzerland.png | Switzerland | Europe & UN & Easy
+Syria.png | Syria & Syrian_Arab_Republic | Asia & UN & Medium
+Taiwan.png | Taiwan & Republic_of_China | Asia & Medium
+Tajikistan.png | Tajikistan | Asia & UN & Medium
+Tanzania.png | Tanzania & United_Republic_of_Tanzania | Africa & UN & Medium
+Thailand.png | Thailand | Asia & UN & Easy
+Togo.png | Togo | Africa & UN & Hard
+Tonga.png | Tonga | Oceania & UN & Hard
+Transnistria.png | Transnistria | Europe & Hard
+Trinidad_and_Tobago.png | Trinidad_and_Tobago | NorthAm & UN & Hard
+Tunisia.png | Tunisia | Africa & UN & Medium
+Turkey.png | Turkey | Asia & UN & Easy
+Turkish_Republic_of_Northern_Cyprus.png | Turkish_Republic_of_Northern_Cyprus & Northern_Cyprus | Europe & Hard
+Turkmenistan.png | Turkmenistan | Asia & UN & Medium
+Tuvalu.png | Tuvalu | Oceania & UN & Hard
+Uganda.png | Uganda | Africa & UN & Medium
+Ukraine.png | Ukraine | Europe & UN & Easy
+United_Arab_Emirates.png | United_Arab_Emirates & UAE | Asia & UN & Medium
+United_Kingdom.png | United_Kingdom & UK | Europe & UN & Easy
+United_States.png | United_States_of_America & United States & US & USA | NorthAm & UN & Easy
+Uruguay.png | Uruguay | SouthAm & UN & Medium
+Uzbekistan.png | Uzbekistan | Asia & UN & Medium
+Vanuatu.png | Vanuatu | Oceania & UN & Hard
+Vatican_City.png | Vatican_City | Europe & Easy
+Venezuela.png | Venezuela | SouthAm & UN & Medium
+Vietnam.png | Vietnam & Viet_Nam | Asia & UN & Easy
+Yemen.png | Yemen | Asia & UN & Medium
+Zambia.png | Zambia | Africa & UN & Hard
+Zimbabwe.png | Zimbabwe | Africa & UN & Hard
